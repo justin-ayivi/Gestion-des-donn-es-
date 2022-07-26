@@ -1,4 +1,4 @@
-# Gestion des donnes
+# Gestion des données
 Cours de gestion des données suivi à la sorbonne université
 
 
