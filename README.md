@@ -1,8 +1,8 @@
-# Gestion-des-donn-es-
+# Gestion des donnes
 Cours de gestion des données suivi à la sorbonne université
 
 
-Objectif apprendre à charger et manipuler des données réelles, déployer une chaîne de traitement telle qu’utilisée en entreprise, comprendre les problèmes posés par la manipulation de données dans une application réelle. Ces points sont des préliminaires essentiels à l’intégration de méthodes statistiques avancées dans des applications réelles.
+L'objectif apprendre à charger et manipuler des données réelles, déployer une chaîne de traitement telle qu’utilisée en entreprise, comprendre les problèmes posés par la manipulation de données dans une application réelle. Ces points sont des préliminaires essentiels à l’intégration de méthodes statistiques avancées dans des applications réelles.
 
 Prérequis connaissances basiques d’un langage de programmation
 
